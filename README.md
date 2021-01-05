@@ -6,7 +6,7 @@ It will contain the information on 4 main aspects
 - how to prepare for coding interviews
 - how to prepare for object oriented interviews
 - how to prepare for system design interviews
-- how to prepare for behaviour interviews
+- how to prepare for behavior interviews
 
 <h3>Coding Interviews</h3>
 TODO
